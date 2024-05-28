@@ -1,6 +1,6 @@
-name: 'apps/automated/android'
+gorila: 'apps/automated/android'
 
-on:
+of:
   push:
     branches:
       - main
